@@ -1,0 +1,16 @@
+C:\Users\nugay\Desktop\pratikler\ConsoleProgramlama\ConsoleProgramlama\obj\Debug\net5.0\ConsoleProgramlama.csproj.AssemblyReference.cache
+C:\Users\nugay\Desktop\pratikler\ConsoleProgramlama\ConsoleProgramlama\obj\Debug\net5.0\ConsoleProgramlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nugay\Desktop\pratikler\ConsoleProgramlama\ConsoleProgramlama\obj\Debug\net5.0\ConsoleProgramlama.AssemblyInfoInputs.cache
+C:\Users\nugay\Desktop\pratikler\ConsoleProgramlama\ConsoleProgramlama\obj\Debug\net5.0\ConsoleProgramlama.AssemblyInfo.cs
+C:\Users\nugay\Desktop\pratikler\ConsoleProgramlama\ConsoleProgramlama\obj\Debug\net5.0\ConsoleProgramlama.csproj.CoreCompileInputs.cache
+C:\Users\nugay\Desktop\pratikler\ConsoleProgramlama\ConsoleProgramlama\bin\Debug\net5.0\ConsoleProgramlama.exe
+C:\Users\nugay\Desktop\pratikler\ConsoleProgramlama\ConsoleProgramlama\bin\Debug\net5.0\ConsoleProgramlama.deps.json
+C:\Users\nugay\Desktop\pratikler\ConsoleProgramlama\ConsoleProgramlama\bin\Debug\net5.0\ConsoleProgramlama.runtimeconfig.json
+C:\Users\nugay\Desktop\pratikler\ConsoleProgramlama\ConsoleProgramlama\bin\Debug\net5.0\ConsoleProgramlama.runtimeconfig.dev.json
+C:\Users\nugay\Desktop\pratikler\ConsoleProgramlama\ConsoleProgramlama\bin\Debug\net5.0\ConsoleProgramlama.dll
+C:\Users\nugay\Desktop\pratikler\ConsoleProgramlama\ConsoleProgramlama\bin\Debug\net5.0\ref\ConsoleProgramlama.dll
+C:\Users\nugay\Desktop\pratikler\ConsoleProgramlama\ConsoleProgramlama\bin\Debug\net5.0\ConsoleProgramlama.pdb
+C:\Users\nugay\Desktop\pratikler\ConsoleProgramlama\ConsoleProgramlama\obj\Debug\net5.0\ConsoleProgramlama.dll
+C:\Users\nugay\Desktop\pratikler\ConsoleProgramlama\ConsoleProgramlama\obj\Debug\net5.0\ref\ConsoleProgramlama.dll
+C:\Users\nugay\Desktop\pratikler\ConsoleProgramlama\ConsoleProgramlama\obj\Debug\net5.0\ConsoleProgramlama.pdb
+C:\Users\nugay\Desktop\pratikler\ConsoleProgramlama\ConsoleProgramlama\obj\Debug\net5.0\ConsoleProgramlama.genruntimeconfig.cache
